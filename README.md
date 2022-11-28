@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Cybermats2004
-- 👀 I’m interested in Football.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me Cybermats#2675 on Discord.
+- 🌱 I’m currently learning Java, Javascript and SQL.
 
 <!---
 Cybermats2004/Cybermats2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
